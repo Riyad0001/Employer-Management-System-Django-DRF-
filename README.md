@@ -11,6 +11,7 @@ where api end point use:
 - `DELETE /api/employers/<id>/`
 
 Give methood with api and in header secton give:
+
 Key: Authorization
 Value: Bearer <access_token>
 access_token get when you login browser /api/auth/login after signup
